@@ -16,8 +16,8 @@
          <property   name="hbm2ddl.auto">update</property>
          
            <!--  mapping classes -->
-         <mapping   class="com.sathya.entity.Book"/>
-         <mapping   class="com.sathya.entity.Author"/>           
+         <mapping   class="com.sathya.entity.Person"/>
+         <mapping   class="com.sathya.entity.Passport"/>           
           
    </session-factory>
 </hibernate-configuration>
